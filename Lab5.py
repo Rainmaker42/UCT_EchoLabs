@@ -17,3 +17,8 @@ print (x)
 x = 5%2
 print(x)
 
+weekend = True
+if weekend:
+    print ("Its the weekend")
+if not weekend:
+    print("noooo")
